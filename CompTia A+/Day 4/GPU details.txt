@@ -1,0 +1,9 @@
+GPU Details
+
+
+GPU Brand -- NVIDIA
+GPU Model -- NVIDIA GeForce RTX 4050 GPU
+Type      -- Dedicated GPU
+Integrated GPU -- Intel Iris Xe Graphics(Integrated)
+ 
+
