@@ -1,0 +1,6 @@
+VLAN Configuration
+
+VLAN ID | VLAN Name   | Assigned Ports
+--------|-------------|----------------
+10      | Engineering | Fa0/1 - Fa0/2
+20      | Marketing   | Fa0/3 - Fa0/4

@@ -1,0 +1,7 @@
+Two Benefits of VLANs in a College Campus Network
+
+1.Better Network Security:
+VLANs can separate the coding lab and networking lab into different logical networks. This prevents unnecessary access between the two labs and helps protect important systems and data.
+
+2.Reduced Network Traffic:
+VLANs divide the network into smaller broadcast domains. For example, traffic from the coding lab does not need to be broadcast to all computers in the networking lab. This reduces unnecessary traffic and improves network performance.
